@@ -67,6 +67,11 @@ i {
     overflow: hidden;
     color: white;
 }
+.boxes p {
+    background-color: gray;
+    color: white;
+    border: black;
+}
 img {
     cursor: pointer;
 }
@@ -97,7 +102,10 @@ p {
 }
 
 .moonlight {
-    margin: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 5px;
+    margin-left: 10px;
 }
 #taki{
     height: 200px;
